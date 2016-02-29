@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0-*",
+  "description": "Alaska.Model Class Library",
+  "authors": [ "nasiruddin.khan" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+
+    "dnx451": {
+      "dependencies": {
+       
+      }
+    }
+
+  },
+  "dependencies": {
+    "Alaska.Common": "1.0.0-*",
+    "EntityFramework": "6.1.3"
+  }
+}

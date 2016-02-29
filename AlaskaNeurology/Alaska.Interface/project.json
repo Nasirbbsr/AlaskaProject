@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0-*",
+  "description": "Alaska.Interface Class Library",
+  "authors": [ "nasiruddin.khan" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "frameworks": {
+    "dnx451": { }
+  },
+  "dependencies": {
+    "Alaska.Common": "1.0.0-*",
+    "Alaska.Model": "1.0.0-*",
+    "EntityFramework.Core": "7.0.0-rc1-final"
+  }
+}

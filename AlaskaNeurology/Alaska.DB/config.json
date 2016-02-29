@@ -1,0 +1,7 @@
+﻿{
+	"Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Data Source=(local); Initial Catalog= AKNC; Integrated Security=SSPI;"
+    }
+	}
+}

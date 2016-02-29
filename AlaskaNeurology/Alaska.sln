@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Alaska.Common", "Alaska.Common\Alaska.Common.xproj", "{65CE2244-28E8-4328-97B4-57D7D41AD502}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Alaska.Core", "Alaska.Core\Alaska.Core.xproj", "{BB18C50F-C568-4C45-B830-C8CB76983DA4}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Alaska.DB", "Alaska.DB\Alaska.DB.xproj", "{BA2F4774-DE06-4F61-96BE-B344689477F8}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Alaska.Interface", "Alaska.Interface\Alaska.Interface.xproj", "{58E8E51F-A587-4060-88B6-99436D506B3B}"
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Alaska.Model", "Alaska.Model\Alaska.Model.xproj", "{0FDBBA05-B5A3-4C4E-B774-2C1AA51661B8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{623A8B87-2EDC-4B64-96F5-DF07325A7250}"
+	ProjectSection(SolutionItems) = preProject
+		Web.config = Web.config
+	EndProjectSection
+EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Alaska.Web", "Alaska.Web\Alaska.Web.xproj", "{FC65EF8F-73CF-4601-AE66-B84187644535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65CE2244-28E8-4328-97B4-57D7D41AD502}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65CE2244-28E8-4328-97B4-57D7D41AD502}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65CE2244-28E8-4328-97B4-57D7D41AD502}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65CE2244-28E8-4328-97B4-57D7D41AD502}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB18C50F-C568-4C45-B830-C8CB76983DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB18C50F-C568-4C45-B830-C8CB76983DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB18C50F-C568-4C45-B830-C8CB76983DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB18C50F-C568-4C45-B830-C8CB76983DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA2F4774-DE06-4F61-96BE-B344689477F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2F4774-DE06-4F61-96BE-B344689477F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2F4774-DE06-4F61-96BE-B344689477F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2F4774-DE06-4F61-96BE-B344689477F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58E8E51F-A587-4060-88B6-99436D506B3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58E8E51F-A587-4060-88B6-99436D506B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58E8E51F-A587-4060-88B6-99436D506B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58E8E51F-A587-4060-88B6-99436D506B3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FDBBA05-B5A3-4C4E-B774-2C1AA51661B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FDBBA05-B5A3-4C4E-B774-2C1AA51661B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FDBBA05-B5A3-4C4E-B774-2C1AA51661B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FDBBA05-B5A3-4C4E-B774-2C1AA51661B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC65EF8F-73CF-4601-AE66-B84187644535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC65EF8F-73CF-4601-AE66-B84187644535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC65EF8F-73CF-4601-AE66-B84187644535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC65EF8F-73CF-4601-AE66-B84187644535}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

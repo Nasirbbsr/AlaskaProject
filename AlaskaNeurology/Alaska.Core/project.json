@@ -1,0 +1,15 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "Alaska.Core Class Library",
+  "authors": [ "nasiruddin.khan" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "frameworks": {
+    "dnx451": { }
+  },
+  "dependencies": {
+    "Alaska.Interface": "1.0.0-*"
+  }
+}
